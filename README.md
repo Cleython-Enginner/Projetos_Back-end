@@ -5,7 +5,7 @@ Projeto bem simples para controlar as receitas e as despesas de vários clientes
 precisa controlar as receitas e as despesas de diversos clientes (X, Y, Z) que podem ser PJ ou PF.
 
 ## INICIO DO DESENVOLVIMNTO -TECNOLOGIAS USADAS
-SpringBoot
+SpringBoot 
 Java 
 Maven 
 JPA
