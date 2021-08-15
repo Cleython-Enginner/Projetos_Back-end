@@ -24,3 +24,7 @@ https://github.com/Cleython-Enginner/sistema_orcamento-cqrs-quarkus-eks
 
 https://github.com/Cleython-Enginner/finance-java
 
+## Barbearia 
+
+https://github.com/Cleython-Enginner/barbershop-dio
+
