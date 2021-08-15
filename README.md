@@ -20,3 +20,7 @@ https://github.com/Cleython-Enginner/ecommerce-checkout-api
 
 https://github.com/Cleython-Enginner/sistema_orcamento-cqrs-quarkus-eks
 
+## Finanças d e Contas a Pagar e Receber
+
+https://github.com/Cleython-Enginner/finance-java
+
