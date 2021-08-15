@@ -16,3 +16,7 @@ https://github.com/Cleython-Enginner/Heroes-SpringWebflux-API
 
 https://github.com/Cleython-Enginner/ecommerce-checkout-api
 
+## Criando um sistema de orçamento, utilizando CQRS, Quarkus, Kafka
+
+https://github.com/Cleython-Enginner/sistema_orcamento-cqrs-quarkus-eks
+
