@@ -30,3 +30,9 @@ https://github.com/Cleython-Enginner/finance-java
 
 https://github.com/Cleython-Enginner/barbershop-dio
 
+# Python
+
+## Implementando um sistema de gestão de clientes com cadastro, listagem e exclusão
+
+https://github.com/Cleython-Enginner/crm-dio
+
