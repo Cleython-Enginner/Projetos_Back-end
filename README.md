@@ -36,3 +36,7 @@ https://github.com/Cleython-Enginner/barbershop-dio
 
 https://github.com/Cleython-Enginner/crm-dio
 
+## Desenvolvendo um dashboard administrativo com Flask
+
+https://github.com/Cleython-Enginner/dashboard-flask-dio
+
