@@ -50,3 +50,7 @@ https://github.com/Cleython-Enginner/refatoracao-python
 
 https://github.com/Cleython-Enginner/dotnet-mongo-localiza
 
+## Criando um catálogo de jogos usando boas práticas de arquitetura com .NET
+
+https://github.com/Cleython-Enginner/dotnet-catalogo-jogos-digital_innovation
+
