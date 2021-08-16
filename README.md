@@ -58,3 +58,7 @@ https://github.com/Cleython-Enginner/dotnet-catalogo-jogos-digital_innovation
 
 https://github.com/Cleython-Enginner/dotnet-transferbancaria-dio
 
+## Criando um APP simples de cadastro de séries em .NET
+
+https://github.com/Cleython-Enginner/dotnet-cadastroseries-dio
+
