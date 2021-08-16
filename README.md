@@ -40,3 +40,7 @@ https://github.com/Cleython-Enginner/crm-dio
 
 https://github.com/Cleython-Enginner/dashboard-flask-dio
 
+## Refatorando uma API HTTP de forma segura desenvolvida em Python
+
+https://github.com/Cleython-Enginner/refatoracao-python
+
