@@ -1,5 +1,6 @@
-# Projetos_Java_Python_.NET_C-Sharp
+#  Projetos por Linguagem de Programação
 
+## Os projetos estão categorizados por linguagem de programação, alguns já foram alterados, outros faltam modificações e outros as modificações estão em andamento.
 # Java
 
 ## Gerenciamento de Estoque de Cerveja
