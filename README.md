@@ -7,7 +7,7 @@
 
 https://github.com/Cleython-Enginner/beers_api_digital_innovation 
 
-## Sublocação de Consultórios 
+## Sublocação de Consultórios  🟢
 
 https://github.com/Cleython-Enginner/back-end-sala-de-reuniao
 
@@ -15,7 +15,7 @@ https://github.com/Cleython-Enginner/back-end-sala-de-reuniao
 
 https://github.com/Cleython-Enginner/Heroes-SpringWebflux-API
 
-## Solução de e-commerce com Microsserviços
+## Solução de e-commerce com Microsserviços  🟢
 
 https://github.com/Cleython-Enginner/ecommerce-checkout-api
 
