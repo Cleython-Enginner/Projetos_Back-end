@@ -27,11 +27,11 @@ https://github.com/Cleython-Enginner/sistema_orcamento-cqrs-quarkus-eks
 
 https://github.com/Cleython-Enginner/finance-java
 
-## Conta Bancaria 
+## Conta Bancaria 🔵
 
 https://github.com/Cleython-Enginner/dio-contabancaria
 
-## Abstraindo Bootcamp
+## Abstraindo Bootcamp  🔵
 
 https://github.com/Cleython-Enginner/abstraindo-bootcamp
 
