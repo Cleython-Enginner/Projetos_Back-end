@@ -55,19 +55,19 @@ https://github.com/Cleython-Enginner/refatoracao-python
 
 # Csharp .Net
 
-## Construindo um projeto de uma API.NET integrada ao MongoDB
+## Construindo um projeto de uma API.NET integrada ao MongoDB 🟡
 
 https://github.com/Cleython-Enginner/dotnet-mongo-localiza
 
-## Criando um catálogo de jogos usando boas práticas de arquitetura com .NET
-
+## Criando um catálogo de jogos usando boas práticas de arquitetura com .NET  🟡
+ 
 https://github.com/Cleython-Enginner/dotnet-catalogo-jogos-digital_innovation
 
-## Criando uma aplicação de transferências bancárias com .NET
+## Criando uma aplicação de transferências bancárias com .NET  🟡
 
 https://github.com/Cleython-Enginner/dotnet-transferbancaria-dio
 
-## Criando um APP simples de cadastro de séries em .NET
+## Criando um APP simples de cadastro de séries em .NET  🟡
 
 https://github.com/Cleython-Enginner/dotnet-cadastroseries-dio
 
