@@ -3,7 +3,7 @@
 ## Os projetos estão categorizados por linguagem de programação, alguns já foram alterados, outros faltam modificações e outros as modificações estão em andamento.
 # Java
 
-## Gerenciamento de Estoque de Cerveja
+## Gerenciamento de Estoque de Cerveja  🟣
 
 https://github.com/Cleython-Enginner/beers_api_digital_innovation 
 
@@ -11,7 +11,7 @@ https://github.com/Cleython-Enginner/beers_api_digital_innovation
 
 https://github.com/Cleython-Enginner/back-end-sala-de-reuniao
 
-## Gerenciamento de Heróis e Vilões da Marvel
+## Gerenciamento de Heróis e Vilões da Marvel  🟣
 
 https://github.com/Cleython-Enginner/Heroes-SpringWebflux-API
 
