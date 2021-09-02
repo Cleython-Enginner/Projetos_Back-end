@@ -19,11 +19,11 @@ https://github.com/Cleython-Enginner/Heroes-SpringWebflux-API
 
 https://github.com/Cleython-Enginner/ecommerce-checkout-api
 
-## Criando um sistema de orçamento, utilizando CQRS, Quarkus, Kafka
+## Criando um sistema de orçamento, utilizando CQRS, Quarkus, Kafka  ⚪
 
 https://github.com/Cleython-Enginner/sistema_orcamento-cqrs-quarkus-eks
 
-## Finanças de Contas 
+## Finanças de Contas  ⚪
 
 https://github.com/Cleython-Enginner/finance-java
 
@@ -35,21 +35,21 @@ https://github.com/Cleython-Enginner/dio-contabancaria
 
 https://github.com/Cleython-Enginner/abstraindo-bootcamp
 
-## Barbearia 
+## Barbearia  ⚪
 
 https://github.com/Cleython-Enginner/barbershop-dio
 
 # Python
 
-## Implementando um sistema de gestão de clientes com cadastro, listagem e exclusão
+## Implementando um sistema de gestão de clientes com cadastro, listagem e exclusão  ⚪
 
 https://github.com/Cleython-Enginner/crm-dio
 
-## Desenvolvendo um dashboard administrativo com Flask
+## Desenvolvendo um dashboard administrativo com Flask  ⚪
 
 https://github.com/Cleython-Enginner/dashboard-flask-dio
 
-## Refatorando uma API HTTP de forma segura desenvolvida em Python
+## Refatorando uma API HTTP de forma segura desenvolvida em Python  ⚪
 
 https://github.com/Cleython-Enginner/refatoracao-python
 
