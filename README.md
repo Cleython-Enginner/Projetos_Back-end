@@ -1,6 +1,5 @@
 #  Projetos por Linguagem de Programação
 
-## Os projetos estão categorizados por linguagem de programação, alguns já foram alterados, outros faltam modificações e outros as modificações estão em andamento.
 # Java
 
 ## Gerenciamento de Estoque de Cerveja  🟣
@@ -71,13 +70,6 @@ https://github.com/Cleython-Enginner/dotnet-transferbancaria-dio
 
 https://github.com/Cleython-Enginner/dotnet-cadastroseries-dio
 
-# Kotlin
 
-## Criando um app de conversor moedas/cambio com Kotlin
 
-https://github.com/Cleython-Enginner/conversor-moedas-kotlin-dio
-
-## Criando um App de Cartão de Visitas
-
-https://github.com/Cleython-Enginner/cartao-visita-kotilin-dio
 
