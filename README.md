@@ -52,7 +52,9 @@ https://github.com/Cleython-Enginner/dashboard-flask-dio
 
 https://github.com/Cleython-Enginner/refatoracao-python
 
-## Curso_Python_Pandas ⚪ 
+## Curso_Python_Pandas ⚪  
+
+https://github.com/Cleython-Enginner/curso-python-pandas
 
 # Csharp .Net
 
