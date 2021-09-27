@@ -56,7 +56,7 @@ https://github.com/Cleython-Enginner/refatoracao-python
 
 https://github.com/Cleython-Enginner/curso-python-pandas 
 
-##  Ecossistema Hadoop
+##  Ecossistema Hadoop ⚪
 
 # Csharp .Net
 
