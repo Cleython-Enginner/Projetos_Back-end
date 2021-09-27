@@ -52,6 +52,8 @@ https://github.com/Cleython-Enginner/dashboard-flask-dio
 
 https://github.com/Cleython-Enginner/refatoracao-python
 
+## Curso_Python_Pandas
+
 # Csharp .Net
 
 ## Construindo um projeto de uma API.NET integrada ao MongoDB 🟡
