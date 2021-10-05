@@ -84,6 +84,7 @@ https://github.com/Cleython-Enginner/decolatech-contabancaria
 
 # NodeJS
 
+## Gerenciador de Crushs  ⚪
 
 
 
