@@ -86,6 +86,8 @@ https://github.com/Cleython-Enginner/decolatech-contabancaria
 
 ## Gerenciador de Crushs  ⚪
 
+https://github.com/Cleython-Enginner/API-gerenciar-crushes-DIO
+
 
 
 
