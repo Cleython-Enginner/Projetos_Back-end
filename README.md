@@ -38,7 +38,9 @@ https://github.com/Cleython-Enginner/abstraindo-bootcamp
 
 https://github.com/Cleython-Enginner/barbershop-dio
 
-## Blog Java-Angular 🟡
+## Blog Java-Angular 🟡 
+
+https://github.com/Cleython-Enginner/blog-java-angular-dio
 
 # Python
 
