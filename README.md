@@ -64,6 +64,9 @@ https://github.com/Cleython-Enginner/curso-python-pandas
 
 https://github.com/Cleython-Enginner/ecossitema-hadoop
 
+## Ecossistema Big Data na Cloud ⚪
+
+
 # Csharp .Net
 
 ## Construindo um projeto de uma API.NET integrada ao MongoDB 🟡
