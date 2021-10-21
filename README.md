@@ -64,7 +64,9 @@ https://github.com/Cleython-Enginner/curso-python-pandas
 
 https://github.com/Cleython-Enginner/ecossitema-hadoop
 
-## Ecossistema Big Data na Cloud ⚪
+## Ecossistema Big Data na Cloud AWS  ⚪
+
+https://github.com/Cleython-Enginner/ecossistema-bigdata-cloud
 
 
 # Csharp .Net
