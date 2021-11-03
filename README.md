@@ -101,7 +101,9 @@ https://github.com/Cleython-Enginner/API-gerenciar-crushes-DIO
 
 https://github.com/Cleython-Enginner/chatbot-digital-innovation
 
+## Cadastro de Usuário  ⚪
 
+https://github.com/Cleython-Enginner/cadusuarios-nodejs
 
 
 
